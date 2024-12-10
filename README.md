@@ -4,8 +4,6 @@
 <h1 align="center">Hi, I'm Rifqi Makarim </h1>
 <h4 align="center">Computer Science student passionate about Software Engineering. Exploring the art of code to build my Impactfully Apps. I also interesting in Cyber Security and Game Development. Always learning, coding, and leveling up my skills.</h4>
 
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=RifqiMakarim&show_icons=true&theme=dark&locale=en" alt="RifqiMakarim" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=RifqiMakarim&show_icons=true&theme=dark&locale=en&layout=compact" alt="RifqiMakarim" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RifqiMakarim&theme=dark" alt="RifqiMakarim" /></p>
