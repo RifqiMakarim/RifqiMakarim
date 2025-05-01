@@ -1,6 +1,6 @@
 # Hi, I'm Rifqi Makarim 👋
 
-![MasterHead](https://i.pinimg.com/originals/29/40/82/29408281dd578d236c382dde424874e1.gif)
+![Image](https://github.com/user-attachments/assets/ee8418ac-2d5f-4df2-9857-a6416d3e8afd)
 
 <h4 align="center">Computer Science student passionate about Software Development. Exploring the art of code to build my Impactfully Apps. I also interesting in Cyber Security and Machine Learning. Always learning, coding, and leveling up my skills.</h4>
 
