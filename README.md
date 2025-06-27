@@ -13,5 +13,5 @@
 <div align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=RifqiMakarim&theme=dark&hide_border=false" />
   <br />
-  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rifqimakarim&theme=radical&show_icons=true&hide_border=true&layout=compact" alt="rifqimakarim's GitHub Stats" />
 </div>
