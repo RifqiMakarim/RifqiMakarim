@@ -13,5 +13,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rifqimakarim&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="rifqimakarim's GitHub Stats" />
   <br/>
+  <br/>
+  <br/>
   <img src="https://streak-stats.demolab.com?user=rifqimakarim&theme=tokyonight&hide_border=true" alt="rifqimakarim's GitHub Stats" />
 </div>
