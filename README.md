@@ -5,13 +5,10 @@
   <img src="https://github.com/user-attachments/assets/ee8418ac-2d5f-4df2-9857-a6416d3e8afd" alt="MasterHead" />
 </div>
 
-### 👨‍💻 About Me
+### 
 
-<h4 align="left">
-🌱 Currently learning Web Development , Machine Learning, and Data Science </br> 
-🤖 Exploring AI/ML and FullStack Development </br> 
-💡 I enjoy creating projects that are useful and bring real impact  </br> 
-🎯 Aspiring AI/ML Engineer | Future Technopreneur  </br> 
+<h4 align="justify">
+I’m passionate about technology and innovation, currently learning Web Development, Machine Learning, and Data Science. I love building impactful projects and exploring the world of AI, ML, and Full-Stack Development. My goal is to become an AI/ML Engineer and future technopreneur.
 </h4>
 
 ---
