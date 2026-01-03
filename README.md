@@ -8,7 +8,7 @@
 ### 
 
 <h4 align="justify">
-I’m passionate about technology and innovation, currently learning Web Development, Machine Learning, and Data Science. I love building impactful projects and exploring the world of AI, ML, and Full-Stack Development. My goal is to become an AI/ML Engineer and future technopreneur.
+I’m passionate about technology and innovation, currently learning Web Development, Machine Learning, and Data Science. I love building impactful projects and exploring the world of AI, ML, and Full-Stack Development.
 </h4>
 
 ---
