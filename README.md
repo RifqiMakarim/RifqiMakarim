@@ -13,7 +13,7 @@ I’m passionate about technology and innovation, currently learning Web Develop
 
 ---
 
-<table>
+<!-- <table>
   <tr>
     <td width="50%" valign="top">
         <br/>
@@ -27,7 +27,7 @@ I’m passionate about technology and innovation, currently learning Web Develop
         <img src="https://streak-stats.demolab.com?user=rifqimakarim&theme=tokyonight&hide_border=true" alt="rifqimakarim's GitHub Streak" />
     </td>
   </tr>
-</table>
+</table> -->
 
 ---
 > 💡 *"Keberhasilan bukanlah milik orang yang pintar, melainkan keberhasilan milik mereka yang senantiasa berusaha."*  
