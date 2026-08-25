@@ -5,14 +5,20 @@
   <img src="https://github.com/user-attachments/assets/ee8418ac-2d5f-4df2-9857-a6416d3e8afd" alt="MasterHead" />
 </div>
 
-### 
+## 👨‍💻 About Me
 
-<h4 align="justify">
-I’m passionate about technology and innovation, currently learning Web Development, Machine Learning, and Data Science. I love building impactful projects and exploring the world of AI, ML, and Full-Stack Development.
-</h4>
+* 🎓 **Background**: Final-year Computer Science student specializing in AI integration, Machine Learning, and Full-Stack Software Development.
+* 💻 **Technical Focus**: Passionate about building scalable web applications and combining backend architectures with intelligent ML models (Computer Vision, NLP, and Data Science).
+* 🛠️ **Practical Experience**: Hands-on background as a Web Developer and Teaching Assistant for Software Engineering & Digital Systems courses.
+* 🚀 **Project Philosophy**: Focused on developing end-to-end digital solutions that emphasize clean code, optimal performance, and real-world impact.
+* 🤝 **Open for Collaboration**: Actively seeking opportunities to collaborate on innovative AI/ML projects, full-stack applications, and open-source software.
+
+## 💻 Tech Stack:
+
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Livewire](https://img.shields.io/badge/livewire-%234e56a6.svg?style=for-the-badge&logo=livewire&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
-
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=RifqiMakarim&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 <!-- <table>
   <tr>
     <td width="50%" valign="top">
@@ -29,10 +35,8 @@ I’m passionate about technology and innovation, currently learning Web Develop
   </tr>
 </table> -->
 
----
 > 💡 *"Keberhasilan bukanlah milik orang yang pintar, melainkan keberhasilan milik mereka yang senantiasa berusaha."*  
 > — **B.J. Habibie**
----
 
 ### Let's Connect!
 <div align="left">
