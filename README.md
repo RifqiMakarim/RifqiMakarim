@@ -7,11 +7,11 @@
 
 ## 👨‍💻 About Me
 
-* 🎓 **Background**: Final-year Computer Science student specializing in AI integration, Machine Learning, and Full-Stack Software Development.
-* 💻 **Technical Focus**: Passionate about building scalable web applications and combining backend architectures with intelligent ML models (Computer Vision, NLP, and Data Science).
-* 🛠️ **Practical Experience**: Hands-on background as a Web Developer and Teaching Assistant for Software Engineering & Digital Systems courses.
-* 🚀 **Project Philosophy**: Focused on developing end-to-end digital solutions that emphasize clean code, optimal performance, and real-world impact.
-* 🤝 **Open for Collaboration**: Actively seeking opportunities to collaborate on innovative AI/ML projects, full-stack applications, and open-source software.
+* 🎓 **Background**: Final-year Computer Science student focusing on AI/ML integration and Full-Stack Development.
+* 🛠️ **Experience**: Web Developer and Teaching Assistant for Software Engineering & Digital Systems.
+* 💡 **Focus**: Building scalable web apps powered by Computer Vision, NLP, and Data Analytics.
+* 🚀 **Goal**: Delivering clean, high-performance, and impactful digital solutions.
+* 🤝 **Collaboration**: Open to innovate on AI/ML projects, full-stack apps, and open-source ideas.
 
 ## 💻 Tech Stack:
 
